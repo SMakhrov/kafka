@@ -5,8 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
 import org.springframework.scheduling.annotation.EnableScheduling;
 import ru.neurosystems.producer.kafka.MessageProducer;
-import ru.neurosystems.producer.restclient.services.ApiService;
-import ru.neurosystems.producer.restclient.services.ApiServiceImpl;
+import ru.neurosystems.producer.restclient.service.ApiService;
+import ru.neurosystems.producer.restclient.service.ApiServiceImpl;
 
 @EnableScheduling
 @SpringBootApplication

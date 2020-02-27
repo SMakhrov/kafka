@@ -1,4 +1,4 @@
-package ru.neurosystems.producer.restclient.services;
+package ru.neurosystems.producer.restclient.service;
 
 import ru.neurosystems.dto.Data;
 
